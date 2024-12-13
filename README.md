@@ -1,3 +1,3 @@
 # JobBeez
 
-The source code is not available as it's part of internship at Coast To Coast Communication Pvt. Ltd. 
+The source code for this project is not publicly available, as it is part of an internship at Coast To Coast Communication Pvt. Ltd.
